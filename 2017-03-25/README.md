@@ -18,6 +18,8 @@
 
 ## 👾 I
 
+##### Level 1
+
 * Describe a person you would like to know more about. Why do you want to know
   more about this person.
 * Do you prefer to use e-ails to comunicate with your friends and family members
@@ -26,5 +28,11 @@
 * Describe a type of movie you do not like. Explain why you don't like it.
 * Agree or disagree? All high school students should take econoic classes.
 * Agree or disagree? students should do part-time jobs before attending college.
+
+
+##### Level 2
+
+* Which of the following do you think is the ost challenging place to work?
+  Museum, hospital, business office.
 
 ![](http://i.imgur.com/0T0G8J8.png)
