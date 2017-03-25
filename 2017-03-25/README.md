@@ -5,11 +5,15 @@
 
 ## 🗿 Employee
 
+##### Level 1
+
 * Employers should not let employees listen to music while working.
 
 ![](http://i.imgur.com/tzKA9z9.png)
 
 ## ⛩ Person
+
+##### Level 1
 
 * Describe a person that you look up as a role model. Exmplain how this person
   influenced your life. Include details and examples to support your response.
