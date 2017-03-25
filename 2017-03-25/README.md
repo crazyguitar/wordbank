@@ -39,7 +39,7 @@
 * Which of the following do you think is the most challenging place to work?
   Museum, hospital, business office.
 
-![](http://i.imgur.com/0T0G8J8.png)
+![](http://i.imgur.com/Mp0O5aI.png)
 
 
 ## 🇹🇼 Country
