@@ -26,7 +26,7 @@
 
 * Describe a person you would like to know more about. Why do you want to know
   more about this person.
-* Do you prefer to use e-ails to comunicate with your friends and family members
+* Do you prefer to use e-mails to comunicate with your friends and family members
   or do you prefer to use the telephone?
 * Describe one event that has positive effects on you.
 * Describe a type of movie you do not like. Explain why you don't like it.
