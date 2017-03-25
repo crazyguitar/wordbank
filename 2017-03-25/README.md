@@ -48,4 +48,4 @@
 
 * Talk about an occasion that people give presents to others in your country.
 
-[Imgur](http://i.imgur.com/w4R9RUb.png)
+![](http://i.imgur.com/w4R9RUb.png)
