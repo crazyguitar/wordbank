@@ -27,5 +27,4 @@
 * Agree or disagree? All high school students should take econoic classes.
 * Agree or disagree? students should do part-time jobs before attending college.
 
-![](http://i.imgur.com/X6MQdFT.png)
-
+![](http://i.imgur.com/0T0G8J8.png)
