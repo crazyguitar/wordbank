@@ -17,6 +17,8 @@
 
 * Describe a person that you look up as a role model. Explain how this person
   influenced your life. Include details and examples to support your response.
+* Describe a person you would like to know more about. Why do you want to know
+  more about this person.
 
 ![](http://i.imgur.com/D9Yaec3.png)
 
@@ -24,8 +26,6 @@
 
 ##### Level 1
 
-* Describe a person you would like to know more about. Why do you want to know
-  more about this person.
 * Do you prefer to use e-mails to communicate with your friends and family members
   or do you prefer to use the telephone?
 * Describe one event that has positive effects on you.
@@ -39,7 +39,7 @@
 * Which of the following do you think is the most challenging place to work?
   Museum, hospital, business office.
 
-![](http://i.imgur.com/Mp0O5aI.png)
+![](http://i.imgur.com/idjAnFK.png)
 
 
 ## 🇹🇼 Country
