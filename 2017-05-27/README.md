@@ -4,7 +4,7 @@
 ### wordbank
 
 1. live an easy lifestyle
-2. social networking
+2. social networking / makeing new friends
 3. reputation / prestige
 4. money / save money / budget / save budget / increase budget
 5. responsiblity
